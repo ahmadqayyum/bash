@@ -1,5 +1,26 @@
-1. You Must have installed the latest version of Oracle Virtual Box.
-2. Run script as a sudo user.
-3. updated version of Ubunu16.04 OR Ubunu18.04
 
-Thanks
+
+# Install minikube in Ubuntu
+
+![Image result for minikube](https://cdn-images-1.medium.com/max/2400/1*RPlkI7b6Ek85uyaQ3qPS8w.jpeg)
+
+
+## Requirement 
+  - Ubuntu 16.04
+  - Or
+  - Ubuntu 18.04
+  - Oracle Virtual Box
+  - Super privilege 
+
+## Run Script
+```
+chmod +x minikube.sh
+./minikube.sh
+```
+
+
+
+### Todos
+
+ - Install docker
+ - Support multiple Environment
