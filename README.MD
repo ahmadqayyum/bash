@@ -6,9 +6,7 @@
 
 
 ## Requirement 
-  - Ubuntu 16.04
-  - Or
-  - Ubuntu 18.04
+  - Ubuntu 16.04 Or Ubuntu 18.04
   - Oracle Virtual Box
   - Super privilege 
 
